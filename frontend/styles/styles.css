@@ -1,0 +1,26 @@
+.content-body{
+    background-color: rgba(0, 48, 48, 0.411);
+}
+.container{
+    width: 1000px;
+    height: auto;
+    background-color: rgb(228, 255, 202);
+    margin: auto;
+}
+.header-text-holder{
+    border-radius: 5px;
+    font-family: fantasy;
+    color: rgb(130 255 157);
+    text-align: center;
+    background-color: indigo;
+}
+.login-btn {
+    margin-left: 70px;
+    width: 70%;
+    margin-top: 200px;
+}
+.register-btn{
+    margin-left: 70px;
+    width: 70%;
+    margin-bottom: 200px;
+}
